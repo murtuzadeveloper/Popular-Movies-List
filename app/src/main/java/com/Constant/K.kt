@@ -7,7 +7,6 @@ import org.apache.commons.lang3.StringUtils
  */
 
 object K {
-
     object Numbers {
         const val ZERO = 0
         const val ONE = 1
