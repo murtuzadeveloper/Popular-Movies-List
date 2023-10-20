@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Popular Movies List</string>
+    <string name="last_screen">Popular Movies the last viewed information</string>
+    <string name="movie_name">Movies Name :</string>
+    <string name="popularity">Popularity :</string>
+    <string name="releaseDate">Release Date :</string>
+    <string name="error_occurred">Something Went Wring</string>
+    <string name="language">language</string>
+    <string name="genres">Genres</string>
+    <string name="productionCompanies">Production Companies</string>
+    <string name="productionCountries">Production Countries</string>
+    <string name="na_string">N/A</string>
+    <string name="overview">OverView</string>
+    <string name="vote">vote</string>
+    <string name="status">status</string>
+    <string name="popular">Popular Movies</string>
+    <string name="search">Search by Name</string>
+    <string name="voteAverage">Vote Average</string>
+    <string name="budget">Budget</string>
+    <string name="tagLine">Tagline:</string>
+
+</resources>

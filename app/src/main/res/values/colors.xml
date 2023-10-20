@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#dedede</color>
+    <color name="colorPrimaryDark">#dedede</color>
+    <color name="colorAccent">#476678</color>
+    <color name="colorRipple">#e0e0e0</color>
+    <color name="colorDivder">#dedede</color>
+    <color name="background">#dedede</color>
+    <color name="davy_grey">#575757</color>
+    <color name="platinum">#E4E4E4</color>
+    <color name="baltic_sea">#282828</color>
+    <color name="dark_jungle_green">#222222</color>
+    <color name="fire_engine_red">#D11A2A</color>
+    <color name="brick_red">#CF304A</color>
+    <color name="dark_orange">#F79009</color>
+
+</resources>
