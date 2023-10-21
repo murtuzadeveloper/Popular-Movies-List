@@ -1,3 +1,6 @@
+
+![Screenshot_20231021_193156](https://github.com/murtuzadeveloper/Popular-Movies-List/assets/59992046/ad6e2491-e301-412f-af28-c01b7a205aa1)
+
 Dear candidate,
 From Smallworld we propose the development of an application to show information about
 movies. The application should meet the following requisites:
@@ -26,3 +29,4 @@ Will be evaluated:
 Will not be evaluated:
 ● UI design
 ● Third party libraries selection
+
