@@ -1,5 +1,11 @@
 
-![Screenshot_20231021_193156](https://github.com/murtuzadeveloper/Popular-Movies-List/assets/59992046/ad6e2491-e301-412f-af28-c01b7a205aa1)
+Popular Movies List
+==========================
+
+
+![poster](https://github.com/murtuzadeveloper/Popular-Movies-List/assets/59992046/df0e669a-f626-4842-8ff5-a44e66236d92)
+
+
 
 Dear candidate,
 From Smallworld we propose the development of an application to show information about
