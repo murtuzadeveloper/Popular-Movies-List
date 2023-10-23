@@ -7,8 +7,8 @@ Popular Movies List
 
 
 
-Dear candidate,
-From Smallworld we propose the development of an application to show information about
+
+The development of an application to show information about
 movies. The application should meet the following requisites:
 
 1.- There will be a screen that will show a list with movies and their most relevant information
