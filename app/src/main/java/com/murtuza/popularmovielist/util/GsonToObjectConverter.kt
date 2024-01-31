@@ -3,11 +3,6 @@ package com.murtuza.popularmovielist.util
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 
-
-/**
- * Created by Vullnet Limani on 05/07/2022
- * Email: dr.vullnet.limani@gmail.com
- */
 object GsonToObjectConverter {
 
     val gson = Gson()
